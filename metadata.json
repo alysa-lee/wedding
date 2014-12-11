@@ -8,11 +8,11 @@
     "colorSwatches":
     {
         "Swatch 1": {
-            "color1":"#ffffff",
+            "color1":"#cc0066",
             "color2":"#cdeff6",
-            "color3":"#bc3471",
+            "color3":"#333333",
             "color4":"#333333",
-            "color5":"#e2106e",
+            "color5":"#333333",
             "color6":"#fccde2",
             "color7":"#570429"
         },

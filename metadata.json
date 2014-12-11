@@ -1,5 +1,5 @@
 {
-	"name":"Taylor and Harrow",
+	"name":"Garden Wedding",
 	"thumbnail":"taylor-and-harrow.png",
 	"screenshot":"taylor-and-harrow.png",
     "tags": { "en": ["laywer", "clean", "corporate"] },
@@ -9,12 +9,12 @@
     {
         "Swatch 1": {
             "color1":"#ffffff",
-            "color2":"#000000",
-            "color3":"#000000",
-            "color4":"#000000",
-            "color5":"#000000",
+            "color2":"#cdeff6",
+            "color3":"#bc3471",
+            "color4":"#f03f8e",
+            "color5":"#f864a6",
             "color6":"#ffffff",
-            "color7":"#000000"
+            "color7":"#570429"
         },
         "Swatch 2": {
             "color1":"#ffffff",

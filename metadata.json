@@ -1,14 +1,14 @@
 {
 	"name":"Garden Wedding",
-	"thumbnail":"taylor-and-harrow.png",
-	"screenshot":"taylor-and-harrow.png",
+	"thumbnail":"wedding.png",
+	"screenshot":"wedding.png",
     "tags": { "en": ["laywer", "clean", "corporate"] },
     "pageTypes":["home"],
     "templateType":"standard",
     "colorSwatches":
     {
         "Swatch 1": {
-            "color1":"#ffffff",
+            "color1":"#333333",
             "color2":"#8dd2e9",
             "color3":"#bc3471",
             "color4":"#e2106e",
@@ -19,38 +19,38 @@
         "Swatch 2": {
             "color1":"#ffffff",
             "color2":"#449a88",
-            "color3":"#000000",
-            "color4":"#000000",
+            "color3":"#a17a0f",
+            "color4":"#cba336",
             "color5":"#000000",
             "color6":"#ffffff",
-            "color7":"#000000"
+            "color7":"#836105"
         },
         "Swatch 3": {
             "color1":"#ffffff",
             "color2":"#ec495f",
-            "color3":"#000000",
-            "color4":"#000000",
+            "color3":"#459c8a",
+            "color4":"#4bc1a9",
             "color5":"#000000",
             "color6":"#ffffff",
-            "color7":"#000000"
+            "color7":"#1c6556"
         },
         "Swatch 4": {
             "color1":"#ffffff",
             "color2":"#2c9ab7",
-            "color3":"#000000",
-            "color4":"#000000",
+            "color3":"#bc3471",
+            "color4":"#e2106e",
             "color5":"#000000",
             "color6":"#ffffff",
-            "color7":"#000000"
+            "color7":"#570429"
         },
         "Swatch 5": {
             "color1":"#ffffff",
             "color2":"#b88a0e",
-            "color3":"#000000",
-            "color4":"#000000",
+            "color3":"#459c8a",
+            "color4":"#4bc1a9",
             "color5":"#000000",
             "color6":"#ffffff",
-            "color7":"#000000"
+            "color7":"#1c6556"
         }
     },
 
